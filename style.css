@@ -24,11 +24,13 @@ h2 {
 }
 input {
   padding: 6px 9px;
+  background-color: #afbac6;
   border: 2px solid #ced4da;
   border-radius: 10px;
   outline: none;
 }
 input:focus {
+  background-color: #f8f9fa;
   border-color: #212529;
 }
 button {
@@ -39,8 +41,5 @@ button {
 }
 button:hover {
   background-color: #afbac6;
-}
-button:focus {
-  border-color: #212529;
 }
 
