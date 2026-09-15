@@ -29,15 +29,16 @@ input {
   outline: none;
 }
 input:focus {
-  border-color: #212529
+  border-color: #212529;
 }
 button {
   padding: 6px 9px;
-  border: 2px solid #212529;
+  border: 2px solid #afbac6;
   border-radius: 10px;
   cursor: pointer;
 }
 button:hover {
   background-color: #afbac6;
+  border-color: #212529;
 }
 
