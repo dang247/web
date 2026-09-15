@@ -33,7 +33,7 @@ input:focus {
 }
 button {
   padding: 6px 9px;
-  border: 2px solid #afbac6;
+  border: 2px solid #212529;
   border-radius: 10px;
   cursor: pointer;
 }
