@@ -39,6 +39,8 @@ button {
 }
 button:hover {
   background-color: #afbac6;
+}
+button:focus {
   border-color: #212529;
 }
 
